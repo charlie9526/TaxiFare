@@ -8,7 +8,8 @@ All those three meain submissions are xgb classifiers.
 
       From both private and public scores, the "final_submission_2" was the highest
 
-Data visualications were done at "visualization.ipynb" and before generate or reduce a feature that was visualized and decisions were taken. \
+Data visualications were done at "visualization.ipynb" and before generate or reduce a feature that was visualized and decisions were taken. 
+
 Parameter tuning was done using "parameter tuning.ipynb" file mainly. 
 
 
